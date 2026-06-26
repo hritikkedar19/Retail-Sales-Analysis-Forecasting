@@ -1,0 +1,22 @@
+
+RETAIL SALES ANALYSIS REPORT
+
+Total Records: 1601
+Total Sales: 4,189,721.45
+Total Profit: 375,067.78
+Best Region by Sales: West
+Best Category by Profit: Technology
+Best Segment by Sales: Corporate
+
+Key Findings:
+1. West region generated the highest sales.
+2. Technology category generated the highest profit.
+3. Corporate segment contributed the most sales.
+4. Discount has a visible impact on profit.
+5. Seasonal sales patterns are visible across months and quarters.
+
+Business Recommendations:
+1. Increase focus on high-performing regions and categories.
+2. Reduce unnecessary high discounts when profit margins are low.
+3. Improve underperforming regions using targeted campaigns.
+4. Use monthly forecasting for inventory planning.
