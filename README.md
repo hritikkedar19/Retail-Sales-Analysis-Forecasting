@@ -1,6 +1,6 @@
-##### Retail Sales Analysis & Demand Forecasting
+## Retail Sales Analysis & Demand Forecasting
 
-## Project Overview
+### Project Overview
 This is an end-to-end real-world data science project based on the retail domain.  
 The project analyzes retail sales data, discovers business insights, visualizes trends, and builds a sales forecasting model.
 
